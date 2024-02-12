@@ -1,4 +1,20 @@
-### Hi there, Kit here, just so you know this is pretty much just for school, i'll probably change this later btw...
+### Hello there, my name is Kit
+
+i'm a student at western springs college & a massive nerd & here's some info abt me
+
+
+---
+#### My hobbies are
+
+- D&D
+- Magic the gathering
+- Video games
+- Reading
+- Karate
+
+---
+
+
 
 <!--
 **Kitwscw/Kitwscw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
