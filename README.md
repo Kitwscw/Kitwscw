@@ -14,6 +14,22 @@ i'm a student at western springs college & a massive nerd & here's some info abt
 
 ---
 
+#### some of the things i've made digitally are:
+
+- A 3D model of a Pa
+- a Digital Quiz made with HTML
+- a website about the harmful digital communications act
+
+  ---
+
+#### I Chose to do digitech because i find it interesting & quite fun. 
+
+Also i want to learn to code because it's a very useful skill in this time
+
+---
+
+
+
 
 
 <!--
