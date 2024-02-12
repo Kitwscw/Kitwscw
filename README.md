@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Kit here, just so you know this is pretty much just for school, i'll probably change this later btw...
 
 <!--
 **Kitwscw/Kitwscw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
